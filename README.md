@@ -97,11 +97,10 @@ Looking forward to new opportunities and future collaborations. Feel free to rea
 
 ---
 
-<div align="center">
-  
 [English](#abdulaziz-nabaa)
 
-
+<div align="center">
+  
 # Abdulaziz Nabaa
 ### Full-Stack-Entwickler · React · TypeScript · Next.js · Elasticsearch
 
