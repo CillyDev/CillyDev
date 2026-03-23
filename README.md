@@ -100,7 +100,8 @@ Looking forward to new opportunities and future collaborations. Feel free to rea
 ---
 
 
-
+<div align="center">
+  
 [English](#abdulaziz-nabaa)
 
 
@@ -176,20 +177,20 @@ Ausbildung Fachinformatiker für Anwendungsentwicklung
 ---
 
 ## Projekte
+### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Entwicklung
+> Ein Tool, das Einkaufsgewohnheiten verfolgt, vorhersagt, wann Produkte zur Neige gehen, und dabei hilft, Verschwendung zu reduzieren.
+
+`React`  `TypeScript` `Python` `Next.js` `Elasticsearch` ` NextAuth ` 
+
+---
 
 ### [Kin-Harbour](https://github.com/CillyDev/Kin-Harbour)   Persönliches Backlog
 > Eine gemeinsame Plattform für Paare, Freundschaftsgruppen und Familien, um Erinnerungen festzuhalten, Ausflüge zu planen und den Überblick über die Liebsten zu behalten.
 
 `React` `TypeScript` `Next.js`
 
----
 
-### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Entwicklung
-> Ein Tool, das Einkaufsgewohnheiten verfolgt, vorhersagt, wann Produkte zur Neige gehen, und dabei hilft, Verschwendung zu reduzieren.
 
-`TypeScript`
-
----
 
 <div align="center">
 
