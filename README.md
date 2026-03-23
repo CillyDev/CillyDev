@@ -93,8 +93,6 @@ Aprentice Software Developer
 
 Looking forward to new opportunities and future collaborations. Feel free to reach out!
 
-[![Email Me](https://img.shields.io/badge/Say_Hello!-abdulaziz.nabaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulaziz.nabaa@gmail.com)
-
 </div>
 
 ---
@@ -193,7 +191,5 @@ Ausbildung Fachinformatiker für Anwendungsentwicklung
 <div align="center">
 
 Ich freue mich auf neue Möglichkeiten und zukünftige Zusammenarbeit. Melden Sie sich gerne!
-
-[![Schreib mir](https://img.shields.io/badge/Hallo_sagen!-abdulaziz.nabaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulaziz.nabaa@gmail.com)
 
 </div>
