@@ -76,14 +76,14 @@ Aprentice Software Developer
 ##  Projects
 ### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Development
 
-> A tool that tracks shopping trends and habits, predicts when items will run out, and helps reduce waste by finding the optimal restock point.
+> A tool that tracks shopping trends and habits, predicts when items will run out, and helps reduce waste by finding the optimal restock point and creating an order list.
 
 `React`  `TypeScript` `Python` `Next.js` `Elasticsearch` ` NextAuth ` 
 
 ---
 
 ### [Kin-Harbour](https://github.com/CillyDev/Kin-Harbour)   Personal Backlog
-> A shared space for couples, friend groups, and families to capture memories, plan outings, and stay connected.
+> A project that explores the idea of creating private social bubles for small groups away from all the noise of the modern Social Media. Each group get their own private instance, only accessible to members
 
 `React` `TypeScript` `Next.js`
 
