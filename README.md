@@ -52,25 +52,6 @@ I build scalable web applications to modernize outdated workflows I run into, an
 
 ---
 
-## Job Experience
-
-### Deutsche Telekom AG   Bonn (Aug 2022 – Jan 2026)
-Aprentice Software Developer
-
- Year 3 · Junior Full-Stack Dev   IT Tools Service Enterprise  (Nov 2024 – Jan 2026)
-- Built a new centralised  radio cell overview dashboard  from scratch (React, Next.js, Elasticsearch, TypeScript, Python)
-- Migrated a legacy  Excel VBA application  into a scalable web app (React, TypeScript, Next.js, MSSQL)
-
- Year 2 · Junior Developer   ISP Automation  (Jan 2024 – Nov 2024)
-- Automated  password management & change logging  for routers using C# and Blue Prism
-- Integrated a  CLI interface  for executing additional network commands
-
- Year 1 · Junior Developer / Incident Manager   RAN  (Oct 2022 – Jan 2024)
-- Wrote  Python scripts  for automated status checks on Ericsson & Huawei nodes
-- Automated permission verification & results rendered as HTML tables
-
----
-
 ##  Projects
 ### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Development
 
@@ -149,24 +130,7 @@ Ich entwickle skalierbare Webanwendungen um veraltete Workflows zu modernisieren
 
 ---
 
-## Berufserfahrung
 
-### Deutsche Telekom AG   Bonn (Aug 2022 – Jan 2026)
-Ausbildung Fachinformatiker für Anwendungsentwicklung
-
- Lehrjahr 3 · Junior Full-Stack Dev   IT Tools Service Großkunden  (Nov 2024 – Jan 2026)
-- Neuentwicklung einer zentralen  Übersicht für Radiozellen  (React, Next.js, Elasticsearch, TypeScript, Python)
-- Umbau einer  Excel-VBA-Anwendung  in eine skalierbare Web-App (React, TypeScript, Next.js, PostgreSQL)
-
- Lehrjahr 2 · Junior Entwickler   ISP Automation  (Jan 2024 – Nov 2024)
-- Automatisierte  Passwortverwaltung & Änderungsprotokollierung  für Router (C#, Blue Prism)
-- Integrierte  CLI-Schnittstelle  zur Ausführung zusätzlicher Netzwerkbefehle
-
- Lehrjahr 1 · Junior Entwickler / Incident Manager   RAN  (Okt 2022 – Jan 2024)
--  Python-Skripte  zur automatisierten Statusprüfung auf Ericsson- und Huawei-Knoten
-- Berechtigungsprüfung & Ergebnisaufbereitung als HTML-Tabelle
-
----
 
 ## Projekte
 ### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Entwicklung
