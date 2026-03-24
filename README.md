@@ -1,19 +1,17 @@
 [Deutsch](#abdulaziz-nabaa-1)
 
 
-# Abdulaziz Nabaa   
+# Abdulaziz Nabaa  (Cillian)
 ### Full-Stack-Entwickler · React · TypeScript · Next.js · Elasticsearch
 
 [![E-Mail](https://img.shields.io/badge/abdulaziz.nabaa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulaziz.nabaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulaziz-nabaa)
-[![Standort](https://img.shields.io/badge/Bonn%2C_Deutschland-333?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bonn,Germany)
-
 
 ---
 
 ## About Me
 
-I'm a  Full-Stack Developer  based in Bonn, Germany freshly graduated from a 3 year dual-apprenticeship at Deutsche Telekom AG as a Software Developer.
+I'm a  Full-Stack Developer  based in Germany freshly graduated from a 3 year dual-apprenticeship at Deutsche Telekom AG as a Software Developer.
 
 I build scalable web applications to modernize outdated workflows I run into, and to provide a better user experience with a focus on clean code and modular architecture.
 
@@ -79,14 +77,11 @@ Looking forward to new opportunities and future collaborations. Feel free to rea
 [English](#abdulaziz-nabaa)
 
 
-# Abdulaziz Nabaa
+# Abdulaziz Nabaa (Cillian)
 ### Full-Stack-Entwickler · React · TypeScript · Next.js · Elasticsearch
 
 [![E-Mail](https://img.shields.io/badge/abdulaziz.nabaa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulaziz.nabaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulaziz-nabaa)
-[![Standort](https://img.shields.io/badge/Bonn%2C_Deutschland-333?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bonn,Germany)
-
-
 
 ---
 
