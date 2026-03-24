@@ -1,6 +1,5 @@
 [Deutsch](#abdulaziz-nabaa-1)
 
-<div align="center">
 
 # Abdulaziz Nabaa   
 ### Full-Stack-Entwickler · React · TypeScript · Next.js · Elasticsearch
@@ -9,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulaziz-nabaa)
 [![Standort](https://img.shields.io/badge/Bonn%2C_Deutschland-333?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bonn,Germany)
 
-</div>
 
 ---
 
@@ -99,8 +97,7 @@ Looking forward to new opportunities and future collaborations. Feel free to rea
 
 [English](#abdulaziz-nabaa)
 
-<div align="center">
-  
+
 # Abdulaziz Nabaa
 ### Full-Stack-Entwickler · React · TypeScript · Next.js · Elasticsearch
 
@@ -108,7 +105,7 @@ Looking forward to new opportunities and future collaborations. Feel free to rea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulaziz-nabaa)
 [![Standort](https://img.shields.io/badge/Bonn%2C_Deutschland-333?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bonn,Germany)
 
-</div>
+
 
 ---
 
