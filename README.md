@@ -53,7 +53,7 @@ I build scalable web applications to modernize outdated workflows I run into, an
 ##  Projects
 ### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Development
 
-> A tool that tracks shopping trends and habits, predicts when items will run out, and helps reduce waste by finding the optimal restock point and creating an order list.
+> A tool to help shops and small businesses manage their inventory more effectively. By tracking shopping trends,and estimating optimal reorder dates and generating a list of recommended products to restock given a certain date.
 
 `React`  `TypeScript` `Python` `Next.js` `Elasticsearch` ` NextAuth ` 
 
@@ -129,7 +129,7 @@ Ich entwickle skalierbare Webanwendungen um veraltete Workflows zu modernisieren
 
 ## Projekte
 ### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Entwicklung
-> Ein Tool für Supermärkte, das Einkaufsgewohnheiten verfolgt und erkennt, wann Produkte nachbestellt werden müssen, und dabei hilft, Verschwendung zu reduzieren durch die estellung einer Bestellliste .
+> Ein Tool, das Geschäften und kleinen Unternehmen hilft, ihren Inventarbestand effektiver zu verwalten. Es verfolgt Einkaufstrends, schätzt optimale Nachbestelldaten und erstellt eine Liste empfohlener Produkte zum Wiederauffüllen zu einem bestimmten Datum.
 
 `React`  `TypeScript` `Python` `Next.js` `Elasticsearch` ` NextAuth ` 
 
