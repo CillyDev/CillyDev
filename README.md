@@ -51,13 +51,6 @@ I build scalable web applications to modernize outdated workflows I run into, an
 ---
 
 ##  Projects
-### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Development
-
-> A tool to help shops and small businesses manage their inventory more effectively. By tracking shopping trends,and estimating optimal reorder dates and generating a list of recommended products to restock given a certain date.
-
-`React`  `TypeScript` `Python` `Next.js` `Elasticsearch` ` NextAuth ` 
-
----
 
 ### [Kin-Harbour](https://github.com/CillyDev/Kin-Harbour)   Personal Backlog
 > A project that explores the idea of creating private social bubles for small groups away from all the noise of the modern Social Media. Each group get their own private instance, only accessible to members
@@ -128,12 +121,6 @@ Ich entwickle skalierbare Webanwendungen um veraltete Workflows zu modernisieren
 
 
 ## Projekte
-### [ShopKeep](https://github.com/CillyDev/ShopKeep)   In Entwicklung
-> Ein Tool, das Geschäften und kleinen Unternehmen hilft, ihren Inventarbestand effektiver zu verwalten. Es verfolgt Einkaufstrends, schätzt optimale Nachbestelldaten und erstellt eine Liste empfohlener Produkte zum Wiederauffüllen zu einem bestimmten Datum.
-
-`React`  `TypeScript` `Python` `Next.js` `Elasticsearch` ` NextAuth ` 
-
----
 
 ### [Kin-Harbour](https://github.com/CillyDev/Kin-Harbour)   Persönliches Backlog
 > Ein persönliches Projekt, das einen privaten sozialen Raum für kleine Gruppen schafft, fernab des Lärms sozialer Medien, mit einer eigenen Instanz für jede Gruppe
